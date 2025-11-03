@@ -1,1 +1,1 @@
-sample.c
+hello world,hello PHOENIX
